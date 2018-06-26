@@ -35,7 +35,7 @@ defmodule PlusCodes.MixProject do
 
   defp package do
     [
-      files: ["lib", "mix.exs", "README", "LICENSE*"],
+      files: ["lib", "mix.exs", "README.md", "LICENSE*"],
       maintainers: ["Alex Peachey, Versus Systems LLC"],
       licenses: ["MIT"],
       links: %{"GitHub" => "https://github.com/versus-systems/plus_codes"}
